@@ -1,22 +1,22 @@
 {
   "name": "PedSafio",
   "minecraftVersion": "1.20.1",
-  "forgeVersion": "47.4.10",
+  "forgeVersion": "47.2.0",
   "forgeInstallerUrl": "",
   "files": [
+    {
+      "name": "ad_astra-forge-1.20.1-1.15.20.jar",
+      "path": "mods/ad_astra-forge-1.20.1-1.15.20.jar",
+      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/ad_astra-forge-1.20.1-1.15.20.jar",
+      "size": 7508861,
+      "sha1": "537ac3e358a97efd7b03648a9bfd7b11f1ae7ff7"
+    },
     {
       "name": "AI-Improvements-1.20-0.5.2.jar",
       "path": "mods/AI-Improvements-1.20-0.5.2.jar",
       "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/AI-Improvements-1.20-0.5.2.jar",
       "size": 29553,
       "sha1": "11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8"
-    },
-    {
-      "name": "Animation_Overhaul-forge-1.20.x-1.3.1.jar",
-      "path": "mods/Animation_Overhaul-forge-1.20.x-1.3.1.jar",
-      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/Animation_Overhaul-forge-1.20.x-1.3.1.jar",
-      "size": 270915,
-      "sha1": "615384e2086b556093d28e1bd119a460a5ab533b"
     },
     {
       "name": "antixray-forge-1.4.6+1.20.1.jar",
@@ -54,6 +54,13 @@
       "sha1": "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d"
     },
     {
+      "name": "botarium-forge-1.20.1-2.3.4.jar",
+      "path": "mods/botarium-forge-1.20.1-2.3.4.jar",
+      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/botarium-forge-1.20.1-2.3.4.jar",
+      "size": 157633,
+      "sha1": "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b"
+    },
+    {
       "name": "Chunky-1.3.146.jar",
       "path": "mods/Chunky-1.3.146.jar",
       "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/Chunky-1.3.146.jar",
@@ -82,6 +89,13 @@
       "sha1": "77efad128734603800f65fe4c21c8958d74aff2a"
     },
     {
+      "name": "create-1.20.1-6.0.8.jar",
+      "path": "mods/create-1.20.1-6.0.8.jar",
+      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/create-1.20.1-6.0.8.jar",
+      "size": 19170905,
+      "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9"
+    },
+    {
       "name": "CreativeCore_FORGE_v2.12.37_mc1.20.1.jar",
       "path": "mods/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar",
       "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar",
@@ -103,25 +117,25 @@
       "sha1": "fc4f720cb0233ed08cbd6055865423189d757d37"
     },
     {
-      "name": "easy_npc_bundle-forge-1.20.1-6.15.0.jar",
-      "path": "mods/easy_npc_bundle-forge-1.20.1-6.15.0.jar",
-      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/easy_npc_bundle-forge-1.20.1-6.15.0.jar",
+      "name": "easy_npc_bundle-forge-1.20.1-6.16.0.jar",
+      "path": "mods/easy_npc_bundle-forge-1.20.1-6.16.0.jar",
+      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/easy_npc_bundle-forge-1.20.1-6.16.0.jar",
       "size": 25443,
-      "sha1": "c22887126288f9937b80699e837ccd6796911c59"
+      "sha1": "a7bc4181e5bb1bd36179b9175e5ec8b3d81994de"
     },
     {
-      "name": "easy_npc_config_ui-forge-1.20.1-6.15.0.jar",
-      "path": "mods/easy_npc_config_ui-forge-1.20.1-6.15.0.jar",
-      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/easy_npc_config_ui-forge-1.20.1-6.15.0.jar",
-      "size": 824491,
-      "sha1": "850cb88dcf22f469489e4d29881788ed4ced884a"
+      "name": "easy_npc_config_ui-forge-1.20.1-6.16.0.jar",
+      "path": "mods/easy_npc_config_ui-forge-1.20.1-6.16.0.jar",
+      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/easy_npc_config_ui-forge-1.20.1-6.16.0.jar",
+      "size": 834336,
+      "sha1": "c76669f6373a5d630e84a6ef2957caadd9486703"
     },
     {
-      "name": "easy_npc-forge-1.20.1-6.15.0.jar",
-      "path": "mods/easy_npc-forge-1.20.1-6.15.0.jar",
-      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/easy_npc-forge-1.20.1-6.15.0.jar",
-      "size": 2029595,
-      "sha1": "ce66d7b56c32c0e73d249e64b8a192dc3c881979"
+      "name": "easy_npc-forge-1.20.1-6.16.0.jar",
+      "path": "mods/easy_npc-forge-1.20.1-6.16.0.jar",
+      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/easy_npc-forge-1.20.1-6.16.0.jar",
+      "size": 2033779,
+      "sha1": "e7ec0eba8a5ef95bf207b9783e79900ff5f4220d"
     },
     {
       "name": "embeddium-0.3.31+mc1.20.1.jar",
@@ -271,13 +285,6 @@
       "sha1": "54846e26029f6bddaecd26a224d9f7f2ec43a124"
     },
     {
-      "name": "Necronomicon-Forge-1.6.0+1.20.1.jar",
-      "path": "mods/Necronomicon-Forge-1.6.0+1.20.1.jar",
-      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/Necronomicon-Forge-1.6.0%2B1.20.1.jar",
-      "size": 33251,
-      "sha1": "2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf"
-    },
-    {
       "name": "oculus-mc1.20.1-1.8.0.jar",
       "path": "mods/oculus-mc1.20.1-1.8.0.jar",
       "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/oculus-mc1.20.1-1.8.0.jar",
@@ -327,6 +334,20 @@
       "sha1": "55e39072e2ece42c5c620a16b088553b11e06f54"
     },
     {
+      "name": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "path": "mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "size": 136923,
+      "sha1": "597d40920dcc935f963842c817dcc4901862ab14"
+    },
+    {
+      "name": "resourcefullib-forge-1.20.1-2.1.29.jar",
+      "path": "mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "size": 432753,
+      "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa"
+    },
+    {
       "name": "rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
       "path": "mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
       "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/rubidium-extra-0.5.4.4%2Bmc1.20.1-build.131.jar",
@@ -346,13 +367,6 @@
       "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/servercore-forge-1.5.2%2B1.20.1.jar",
       "size": 1508496,
       "sha1": "75c6418edc76da55ec89f417e8c43c9d1873fceb"
-    },
-    {
-      "name": "sittingplus-2.0.5-1.20.1.jar",
-      "path": "mods/sittingplus-2.0.5-1.20.1.jar",
-      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/sittingplus-2.0.5-1.20.1.jar",
-      "size": 25210,
-      "sha1": "4ae4bc07709012b14dc88e7be0fb6fd2a4ce9f77"
     },
     {
       "name": "smoothchunk-1.20.1-4.1.jar",
