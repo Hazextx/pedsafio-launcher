@@ -385,7 +385,7 @@
     {
       "name": "yuushya-1.20.1-forge-2.3.0.jar",
       "path": "mods/yuushya-1.20.1-forge-2.3.0.jar",
-      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/yuushya-1.20.1-forge-2.3.0.jar",
+      "url": "https://github.com/Hazextx/pedsafio-launcher/releases/download/mods-v1/yuushya-1.20.1-forge-2.3.0.jar",
       "size": 28166084,
       "sha1": "4ac64e0368ea02a2271326bc41f421a31e6604a3"
     }
