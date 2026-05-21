@@ -138,13 +138,6 @@
                       "sha1":  "ce66d7b56c32c0e73d249e64b8a192dc3c881979"
                   },
                   {
-                      "name":  "embeddium-0.3.31+mc1.20.1.jar",
-                      "path":  "mods/embeddium-0.3.31+mc1.20.1.jar",
-                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/embeddium-0.3.31%2Bmc1.20.1.jar",
-                      "size":  1320675,
-                      "sha1":  "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
-                  },
-                  {
                       "name":  "entityculling-forge-1.9.5-mc1.20.1.jar",
                       "path":  "mods/entityculling-forge-1.9.5-mc1.20.1.jar",
                       "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/entityculling-forge-1.9.5-mc1.20.1.jar",
