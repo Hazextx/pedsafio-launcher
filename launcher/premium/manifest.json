@@ -243,13 +243,6 @@
                       "sha1":  "cf42466689489348e1e3a5df00d2ce6c65dd978a"
                   },
                   {
-                      "name":  "JustEnoughGuns-0.13.2-1.20.1.jar",
-                      "path":  "mods/JustEnoughGuns-0.13.2-1.20.1.jar",
-                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/JustEnoughGuns-0.13.2-1.20.1.jar",
-                      "size":  9877729,
-                      "sha1":  "b18f76ba9bcf4a19b7a14506d72ed6806feabf9e"
-                  },
-                  {
                       "name":  "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
                       "path":  "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
                       "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
@@ -327,13 +320,6 @@
                       "sha1":  "55e39072e2ece42c5c620a16b088553b11e06f54"
                   },
                   {
-                      "name":  "radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
-                      "path":  "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
-                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/radium-mc1.20.1-0.12.4%2Bgit.26c9d8e.jar",
-                      "size":  713454,
-                      "sha1":  "f5f5f792473bb7b85ec221f75c5afb3740afb13a"
-                  },
-                  {
                       "name":  "resourcefulconfig-forge-1.20.1-2.1.3.jar",
                       "path":  "mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
                       "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/resourcefulconfig-forge-1.20.1-2.1.3.jar",
@@ -346,13 +332,6 @@
                       "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/resourcefullib-forge-1.20.1-2.1.29.jar",
                       "size":  432753,
                       "sha1":  "6fc590a7c56a720fec57e290cbb0a106efbb3ffa"
-                  },
-                  {
-                      "name":  "rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
-                      "path":  "mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
-                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/rubidium-extra-0.5.4.4%2Bmc1.20.1-build.131.jar",
-                      "size":  568608,
-                      "sha1":  "bb422d5626bf69841e444a3e545c8e71b6928cf8"
                   },
                   {
                       "name":  "scuba_gear-1.20.1-1.0.6.jar",
