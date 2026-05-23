@@ -656,11 +656,11 @@
                       "sha1":  "75c6418edc76da55ec89f417e8c43c9d1873fceb"
                   },
                   {
-                      "name":  "signal_flares-1.7.1-forge-1.20.1.jar",
-                      "path":  "mods/signal_flares-1.7.1-forge-1.20.1.jar",
-                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/signal_flares-1.7.1-forge-1.20.1.jar",
-                      "size":  1013981,
-                      "sha1":  "96de07991e31f7415ff1587846010f69ef6e3c63"
+                      "name":  "Signal-Flares-Mod-Forge-1.20.1.jar",
+                      "path":  "mods/Signal-Flares-Mod-Forge-1.20.1.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/Signal-Flares-Mod-Forge-1.20.1.jar",
+                      "size":  479671,
+                      "sha1":  "dfb9789eb8c42903885a8d6b209dbcf0f89d8299"
                   },
                   {
                       "name":  "smoothchunk-1.20.1-4.1.jar",
