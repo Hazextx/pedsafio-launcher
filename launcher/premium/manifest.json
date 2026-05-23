@@ -320,13 +320,6 @@
                       "sha1":  "54846e26029f6bddaecd26a224d9f7f2ec43a124"
                   },
                   {
-                      "name":  "oculus-mc1.20.1-1.8.0.jar",
-                      "path":  "mods/oculus-mc1.20.1-1.8.0.jar",
-                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/oculus-mc1.20.1-1.8.0.jar",
-                      "size":  2851119,
-                      "sha1":  "984f774e71790deaec674c7587bd24e0711871b2"
-                  },
-                  {
                       "name":  "Owleaf Tikis Forge 1.20.1.jar",
                       "path":  "mods/Owleaf Tikis Forge 1.20.1.jar",
                       "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/Owleaf%20Tikis%20Forge%201.20.1.jar",
