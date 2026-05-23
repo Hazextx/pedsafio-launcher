@@ -376,13 +376,6 @@
                       "sha1":  "6fc590a7c56a720fec57e290cbb0a106efbb3ffa"
                   },
                   {
-                      "name":  "rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
-                      "path":  "mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
-                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/rubidium-extra-0.5.4.4%2Bmc1.20.1-build.131.jar",
-                      "size":  568608,
-                      "sha1":  "bb422d5626bf69841e444a3e545c8e71b6928cf8"
-                  },
-                  {
                       "name":  "scuba_gear-1.20.1-1.0.6.jar",
                       "path":  "mods/scuba_gear-1.20.1-1.0.6.jar",
                       "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/scuba_gear-1.20.1-1.0.6.jar",
