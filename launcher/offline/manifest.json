@@ -381,6 +381,20 @@
                       "url":  "https://github.com/Hazextx/pedsafio-launcher/releases/download/mods-offline-v1/yuushya-1.20.1-forge-2.3.0.jar",
                       "size":  28166084,
                       "sha1":  "4ac64e0368ea02a2271326bc41f421a31e6604a3"
+                  },
+                  {
+                      "name": "Luckys-Smarter-Mobs-Mod-Forge-1.20.1.jar",
+                      "path": "mods/Luckys-Smarter-Mobs-Mod-Forge-1.20.1.jar",
+                      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/Luckys-Smarter-Mobs-Mod-Forge-1.20.1.jar",
+                      "size": 170542,
+                      "sha1": "455c8988e5ddb95461b92365c8abd3ef5d57d058"
+                  },
+                  {
+                      "name": "illager_additions-1.20.1-0.1.0-beta.jar",
+                      "path": "mods/illager_additions-1.20.1-0.1.0-beta.jar",
+                      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/illager_additions-1.20.1-0.1.0-beta.jar",
+                      "size": 1056265,
+                      "sha1": "ec661245c02b131aec3c3e011bcf4c1fd83605fc"
                   }
               ]
 }
