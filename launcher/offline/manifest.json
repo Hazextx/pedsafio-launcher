@@ -395,6 +395,13 @@
                       "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/illager_additions-1.20.1-0.1.0-beta.jar",
                       "size": 1056265,
                       "sha1": "ec661245c02b131aec3c3e011bcf4c1fd83605fc"
+                  },
+                  {
+                      "name": "simplevoicechat_broadcast-mc1.20.1-1.0.1.jar",
+                      "path": "mods/simplevoicechat_broadcast-mc1.20.1-1.0.1.jar",
+                      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/simplevoicechat_broadcast-mc1.20.1-1.0.1.jar",
+                      "size": 7302,
+                      "sha1": "0e5a9ccb497c0251ba0fce10e265989fb13a8a80"
                   }
               ]
 }
