@@ -1,1 +1,729 @@
-
+{
+    "name":  "PedSafio",
+    "minecraftVersion":  "1.20.1",
+    "forgeVersion":  "47.4.10",
+    "forgeInstallerUrl":  "",
+    "files":  [
+                  {
+                      "name":  "discord.png",
+                      "path":  "config/fancymenu/assets/discord.png",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/assets/discord.png",
+                      "size":  1882,
+                      "sha1":  "c8931bdca58db91fa7f4e4535bdb134d68f4d29a"
+                  },
+                  {
+                      "name":  "fano.png",
+                      "path":  "config/fancymenu/assets/fano.png",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/assets/fano.png",
+                      "size":  124537,
+                      "sha1":  "cb9a25587805d777343b8fdc8813373f6ee59cef"
+                  },
+                  {
+                      "name":  "HFSAFIO.png",
+                      "path":  "config/fancymenu/assets/HFSAFIO.png",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/assets/HFSAFIO.png",
+                      "size":  154478,
+                      "sha1":  "75eca1a6c0ca011fe918ff3eb5577c372260b030"
+                  },
+                  {
+                      "name":  "LOGOOOO.png",
+                      "path":  "config/fancymenu/assets/LOGOOOO.png",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/assets/LOGOOOO.png",
+                      "size":  136190,
+                      "sha1":  "5a049212c8feb456db2e8f6dcb05b5d0b9bfb15c"
+                  },
+                  {
+                      "name":  "logoxd.png",
+                      "path":  "config/fancymenu/assets/logoxd.png",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/assets/logoxd.png",
+                      "size":  124537,
+                      "sha1":  "cb9a25587805d777343b8fdc8813373f6ee59cef"
+                  },
+                  {
+                      "name":  "menuxd.gif",
+                      "path":  "config/fancymenu/assets/menuxd.gif",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/assets/menuxd.gif",
+                      "size":  9810056,
+                      "sha1":  "35b15136213d5924b3f7bd86fdf0050aab53aec1"
+                  },
+                  {
+                      "name":  "music.wav",
+                      "path":  "config/fancymenu/assets/music.wav",
+                      "url":  "https://github.com/Hazextx/pedsafio-launcher/releases/download/fancymenu-v1/music.wav",
+                      "size":  32108622,
+                      "sha1":  "5390040958ed2e10c4c0a84af048da963fd20d42"
+                  },
+                  {
+                      "name":  "musica2.ogg",
+                      "path":  "config/fancymenu/assets/musica2.ogg",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/assets/musica2.ogg",
+                      "size":  952285,
+                      "sha1":  "72c9bf39dbc044f9c28ddc29321b6522ab27c3dc"
+                  },
+                  {
+                      "name":  "selec.ogg",
+                      "path":  "config/fancymenu/assets/selec.ogg",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/assets/selec.ogg",
+                      "size":  11838,
+                      "sha1":  "47a0d86bd60a024a053319b6e0d4f3504b85e705"
+                  },
+                  {
+                      "name":  "ssalir.ogg",
+                      "path":  "config/fancymenu/assets/ssalir.ogg",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/assets/ssalir.ogg",
+                      "size":  13909,
+                      "sha1":  "dda054d86d0bf93358824297760792fe6093df36"
+                  },
+                  {
+                      "name":  "xd.png",
+                      "path":  "config/fancymenu/assets/xd.png",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/assets/xd.png",
+                      "size":  151,
+                      "sha1":  "005fa88ec7a4db6b56fd0da4e7e8252b9d84547b"
+                  },
+                  {
+                      "name":  "audio_element_controller_metas.json",
+                      "path":  "config/fancymenu/audio_element_controller_metas.json",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/audio_element_controller_metas.json",
+                      "size":  109,
+                      "sha1":  "13b0f2f5a081ae76daf5a6d78c08eb12c9faa8fd"
+                  },
+                  {
+                      "name":  "custom_gui_screens.txt",
+                      "path":  "config/fancymenu/custom_gui_screens.txt",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/custom_gui_screens.txt",
+                      "size":  51,
+                      "sha1":  "50b4602527a4e3cfea6016ec001f3b68ace1d65c"
+                  },
+                  {
+                      "name":  "customizablemenus.txt",
+                      "path":  "config/fancymenu/customizablemenus.txt",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/customizablemenus.txt",
+                      "size":  76,
+                      "sha1":  "e6ffb2badf3910d3152b706e0e369cc6f3a84c42"
+                  },
+                  {
+                      "name":  "fanosafio.txt",
+                      "path":  "config/fancymenu/customization/fanosafio.txt",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/customization/fanosafio.txt",
+                      "size":  62694,
+                      "sha1":  "2f71bd3a6f21721b4e6a3583f19c57d5d5ccce82"
+                  },
+                  {
+                      "name":  "element_layer_control.lewidget",
+                      "path":  "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+                      "size":  198,
+                      "sha1":  "a87d9eee1c6d38726797d4e611b3ce976cade110"
+                  },
+                  {
+                      "name":  "legacy_checklist.txt",
+                      "path":  "config/fancymenu/legacy_checklist.txt",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/legacy_checklist.txt",
+                      "size":  42,
+                      "sha1":  "f1569161a6ad24cc61b02dece317ea16e351ff1e"
+                  },
+                  {
+                      "name":  "options.txt",
+                      "path":  "config/fancymenu/options.txt",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/options.txt",
+                      "size":  4398,
+                      "sha1":  "979d71cfa46b5ae334b30e5305a5bb93926f4091"
+                  },
+                  {
+                      "name":  "cherry_blossom.json",
+                      "path":  "config/fancymenu/ui_themes/cherry_blossom.json",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/ui_themes/cherry_blossom.json",
+                      "size":  9349,
+                      "sha1":  "9a453a566f041ddbc39e17918acdac90f6eaed38"
+                  },
+                  {
+                      "name":  "cozy_campfire.json",
+                      "path":  "config/fancymenu/ui_themes/cozy_campfire.json",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/ui_themes/cozy_campfire.json",
+                      "size":  9347,
+                      "sha1":  "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e"
+                  },
+                  {
+                      "name":  "dark.json",
+                      "path":  "config/fancymenu/ui_themes/dark.json",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/ui_themes/dark.json",
+                      "size":  9329,
+                      "sha1":  "b8793f498fc95000ab68a7d6b45d8575ad45d558"
+                  },
+                  {
+                      "name":  "dark_high_contrast.json",
+                      "path":  "config/fancymenu/ui_themes/dark_high_contrast.json",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/ui_themes/dark_high_contrast.json",
+                      "size":  9359,
+                      "sha1":  "9583fa877b286337557aae3429f91d66682091b7"
+                  },
+                  {
+                      "name":  "light.json",
+                      "path":  "config/fancymenu/ui_themes/light.json",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/ui_themes/light.json",
+                      "size":  9331,
+                      "sha1":  "5b9e9bc9d4d683584c919bcdae3b75581ae42f60"
+                  },
+                  {
+                      "name":  "light_high_contrast.json",
+                      "path":  "config/fancymenu/ui_themes/light_high_contrast.json",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/ui_themes/light_high_contrast.json",
+                      "size":  9361,
+                      "sha1":  "8a290f6e1a0bdf2be972878e1c134a0c31f4a069"
+                  },
+                  {
+                      "name":  "pumpkin_soup.json",
+                      "path":  "config/fancymenu/ui_themes/pumpkin_soup.json",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/ui_themes/pumpkin_soup.json",
+                      "size":  9345,
+                      "sha1":  "39c96a61bdeb936b151e38d0050b70abb78e3620"
+                  },
+                  {
+                      "name":  "purple_void.json",
+                      "path":  "config/fancymenu/ui_themes/purple_void.json",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/ui_themes/purple_void.json",
+                      "size":  9343,
+                      "sha1":  "9e38ca299adfe6ab2ad331c6adb80e26ff823da8"
+                  },
+                  {
+                      "name":  "spooky_season.json",
+                      "path":  "config/fancymenu/ui_themes/spooky_season.json",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/ui_themes/spooky_season.json",
+                      "size":  9347,
+                      "sha1":  "9fa05d2794bdec26dee5224075c98bd7da9c1a0d"
+                  },
+                  {
+                      "name":  "user_variables.db",
+                      "path":  "config/fancymenu/user_variables.db",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/fancymenu/user_variables.db",
+                      "size":  23,
+                      "sha1":  "b41f9d7688944b0d96eaa089a5a5bb74af28d258"
+                  },
+                  {
+                      "name":  "de_de.local",
+                      "path":  "config/konkrete/locals/de_de.local",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/konkrete/locals/de_de.local",
+                      "size":  369,
+                      "sha1":  "02adaf2602f1ba03a9352db3d10a6fac3a02aea5"
+                  },
+                  {
+                      "name":  "en_us.local",
+                      "path":  "config/konkrete/locals/en_us.local",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/konkrete/locals/en_us.local",
+                      "size":  426,
+                      "sha1":  "42badc338e767559db38a67bd3e8020a92000e56"
+                  },
+                  {
+                      "name":  "pl_pl.local",
+                      "path":  "config/konkrete/locals/pl_pl.local",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/konkrete/locals/pl_pl.local",
+                      "size":  313,
+                      "sha1":  "adf2ded54b4952ca83af26a1217e2c5db8ac1429"
+                  },
+                  {
+                      "name":  "pt_br.local",
+                      "path":  "config/konkrete/locals/pt_br.local",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/config/konkrete/locals/pt_br.local",
+                      "size":  322,
+                      "sha1":  "9c324fb4d33106366e6cbb5400c8c34f11539d34"
+                  },
+                  {
+                      "name":  "action_favorites.json",
+                      "path":  "fancymenu_data/action_favorites.json",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/fancymenu_data/action_favorites.json",
+                      "size":  0,
+                      "sha1":  "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                  },
+                  {
+                      "name":  "browser_audio_settings.json",
+                      "path":  "fancymenu_data/browser_audio_settings.json",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/fancymenu_data/browser_audio_settings.json",
+                      "size":  0,
+                      "sha1":  "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                  },
+                  {
+                      "name":  "browser_video_settings.json",
+                      "path":  "fancymenu_data/browser_video_settings.json",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/fancymenu_data/browser_video_settings.json",
+                      "size":  0,
+                      "sha1":  "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                  },
+                  {
+                      "name":  "buddy_leveling.json",
+                      "path":  "fancymenu_data/buddy/buddy_leveling.json",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/fancymenu_data/buddy/buddy_leveling.json",
+                      "size":  1619,
+                      "sha1":  "d99d243ed7953eb0e48f478825807a4f505a4305"
+                  },
+                  {
+                      "name":  "buddy_leveling_ZTllYmFmYTYtYjZkYS00NzYwLThkYTUtMDI3MTNjZGY2YTljLTE3NzkzNzQ2NjI1ODI.json",
+                      "path":  "fancymenu_data/buddy/buddy_leveling_ZTllYmFmYTYtYjZkYS00NzYwLThkYTUtMDI3MTNjZGY2YTljLTE3NzkzNzQ2NjI1ODI.json",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/fancymenu_data/buddy/buddy_leveling_ZTllYmFmYTYtYjZkYS00NzYwLThkYTUtMDI3MTNjZGY2YTljLTE3NzkzNzQ2NjI1ODI.json",
+                      "size":  1619,
+                      "sha1":  "d99d243ed7953eb0e48f478825807a4f505a4305"
+                  },
+                  {
+                      "name":  "buddy_save.json",
+                      "path":  "fancymenu_data/buddy/buddy_save.json",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/fancymenu_data/buddy/buddy_save.json",
+                      "size":  260,
+                      "sha1":  "eb8cd0a9ff3b27c6a604ef4ae5df96bf5070a5d0"
+                  },
+                  {
+                      "name":  "buddy_save_ZTllYmFmYTYtYjZkYS00NzYwLThkYTUtMDI3MTNjZGY2YTljLTE3NzkzNzQ2NjI1ODI.json",
+                      "path":  "fancymenu_data/buddy/buddy_save_ZTllYmFmYTYtYjZkYS00NzYwLThkYTUtMDI3MTNjZGY2YTljLTE3NzkzNzQ2NjI1ODI.json",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/fancymenu_data/buddy/buddy_save_ZTllYmFmYTYtYjZkYS00NzYwLThkYTUtMDI3MTNjZGY2YTljLTE3NzkzNzQ2NjI1ODI.json",
+                      "size":  380,
+                      "sha1":  "146a0d404697078c8526c3a49d333989a40c64a0"
+                  },
+                  {
+                      "name":  "last_world.fmdata",
+                      "path":  "fancymenu_data/last_world.fmdata",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/fancymenu_data/last_world.fmdata",
+                      "size":  92,
+                      "sha1":  "851bcfc86acac6bf76e95bf03e31773b74baa68e"
+                  },
+                  {
+                      "name":  "ad_astra-forge-1.20.1-1.15.20.jar",
+                      "path":  "mods/ad_astra-forge-1.20.1-1.15.20.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/ad_astra-forge-1.20.1-1.15.20.jar",
+                      "size":  7508861,
+                      "sha1":  "537ac3e358a97efd7b03648a9bfd7b11f1ae7ff7"
+                  },
+                  {
+                      "name":  "AI-Improvements-1.20-0.5.2.jar",
+                      "path":  "mods/AI-Improvements-1.20-0.5.2.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/AI-Improvements-1.20-0.5.2.jar",
+                      "size":  29553,
+                      "sha1":  "11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8"
+                  },
+                  {
+                      "name":  "antixray-forge-1.4.6+1.20.1.jar",
+                      "path":  "mods/antixray-forge-1.4.6+1.20.1.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/antixray-forge-1.4.6%2B1.20.1.jar",
+                      "size":  304769,
+                      "sha1":  "06d5dad3c1c96bdb8e3498d1330ac59c01eb744e"
+                  },
+                  {
+                      "name":  "architectury-9.2.14-forge.jar",
+                      "path":  "mods/architectury-9.2.14-forge.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/architectury-9.2.14-forge.jar",
+                      "size":  580602,
+                      "sha1":  "a52918a500ff421180a1cbd1a0cabee712134ec4"
+                  },
+                  {
+                      "name":  "BadMobs-1.20.1-19.0.4.jar",
+                      "path":  "mods/BadMobs-1.20.1-19.0.4.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/BadMobs-1.20.1-19.0.4.jar",
+                      "size":  10425,
+                      "sha1":  "100f29f6c425688bcbd77d1a3b99b12e18f019cd"
+                  },
+                  {
+                      "name":  "BetterF3-7.0.2-Forge-1.20.1.jar",
+                      "path":  "mods/BetterF3-7.0.2-Forge-1.20.1.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/BetterF3-7.0.2-Forge-1.20.1.jar",
+                      "size":  468517,
+                      "sha1":  "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d"
+                  },
+                  {
+                      "name":  "betterfpsdist-1.20.1-6.0.jar",
+                      "path":  "mods/betterfpsdist-1.20.1-6.0.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/betterfpsdist-1.20.1-6.0.jar",
+                      "size":  19917,
+                      "sha1":  "8e4fe2cd85c08c24ab363b47a63d1c872fc3cc1e"
+                  },
+                  {
+                      "name":  "botarium-forge-1.20.1-2.3.4.jar",
+                      "path":  "mods/botarium-forge-1.20.1-2.3.4.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/botarium-forge-1.20.1-2.3.4.jar",
+                      "size":  157633,
+                      "sha1":  "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b"
+                  },
+                  {
+                      "name":  "Chunky-1.3.146.jar",
+                      "path":  "mods/Chunky-1.3.146.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/Chunky-1.3.146.jar",
+                      "size":  341451,
+                      "sha1":  "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50"
+                  },
+                  {
+                      "name":  "cloth-config-11.1.136-forge.jar",
+                      "path":  "mods/cloth-config-11.1.136-forge.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/cloth-config-11.1.136-forge.jar",
+                      "size":  1181413,
+                      "sha1":  "c65d07748acc57ceb45d53b3964368b84f34d54f"
+                  },
+                  {
+                      "name":  "Clumps-forge-1.20.1-12.0.0.4.jar",
+                      "path":  "mods/Clumps-forge-1.20.1-12.0.0.4.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/Clumps-forge-1.20.1-12.0.0.4.jar",
+                      "size":  20299,
+                      "sha1":  "97cc669f68dbe812cb77cc3631339334fc28b877"
+                  },
+                  {
+                      "name":  "CMDCam_FORGE_v2.2.0_mc1.20.1.jar",
+                      "path":  "mods/CMDCam_FORGE_v2.2.0_mc1.20.1.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/CMDCam_FORGE_v2.2.0_mc1.20.1.jar",
+                      "size":  138723,
+                      "sha1":  "77efad128734603800f65fe4c21c8958d74aff2a"
+                  },
+                  {
+                      "name":  "create-1.20.1-6.0.8.jar",
+                      "path":  "mods/create-1.20.1-6.0.8.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/create-1.20.1-6.0.8.jar",
+                      "size":  19170905,
+                      "sha1":  "b13d912b9247a38d66d11598c121442585a1c1e9"
+                  },
+                  {
+                      "name":  "CreativeCore_FORGE_v2.12.37_mc1.20.1.jar",
+                      "path":  "mods/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar",
+                      "size":  1144037,
+                      "sha1":  "63266ada26623903a508b6bdd5486f2b9a33c054"
+                  },
+                  {
+                      "name":  "cupboard-1.20.1-3.7.jar",
+                      "path":  "mods/cupboard-1.20.1-3.7.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/cupboard-1.20.1-3.7.jar",
+                      "size":  31643,
+                      "sha1":  "18be26e340ca77a05ee925fdb51400138b8c6539"
+                  },
+                  {
+                      "name":  "CustomPlayerModels-1.20-0.6.25a.jar",
+                      "path":  "mods/CustomPlayerModels-1.20-0.6.25a.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/CustomPlayerModels-1.20-0.6.25a.jar",
+                      "size":  2792497,
+                      "sha1":  "fc4f720cb0233ed08cbd6055865423189d757d37"
+                  },
+                  {
+                      "name":  "dedsafio3-0.0.9-forge-1.20.1 (1).jar",
+                      "path":  "mods/dedsafio3-0.0.9-forge-1.20.1 (1).jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/dedsafio3-0.0.9-forge-1.20.1%20(1).jar",
+                      "size":  7366550,
+                      "sha1":  "22a4b7020f7c34d13d4649239f5831df6c6b033b"
+                  },
+                  {
+                      "name":  "easy_npc_bundle-forge-1.20.1-6.15.0.jar",
+                      "path":  "mods/easy_npc_bundle-forge-1.20.1-6.15.0.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/easy_npc_bundle-forge-1.20.1-6.15.0.jar",
+                      "size":  25443,
+                      "sha1":  "c22887126288f9937b80699e837ccd6796911c59"
+                  },
+                  {
+                      "name":  "easy_npc_config_ui-forge-1.20.1-6.15.0.jar",
+                      "path":  "mods/easy_npc_config_ui-forge-1.20.1-6.15.0.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/easy_npc_config_ui-forge-1.20.1-6.15.0.jar",
+                      "size":  824491,
+                      "sha1":  "850cb88dcf22f469489e4d29881788ed4ced884a"
+                  },
+                  {
+                      "name":  "easy_npc-forge-1.20.1-6.15.0.jar",
+                      "path":  "mods/easy_npc-forge-1.20.1-6.15.0.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/easy_npc-forge-1.20.1-6.15.0.jar",
+                      "size":  2029595,
+                      "sha1":  "ce66d7b56c32c0e73d249e64b8a192dc3c881979"
+                  },
+                  {
+                      "name":  "embeddium-0.3.31+mc1.20.1.jar",
+                      "path":  "mods/embeddium-0.3.31+mc1.20.1.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/embeddium-0.3.31%2Bmc1.20.1.jar",
+                      "size":  1320675,
+                      "sha1":  "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
+                  },
+                  {
+                      "name":  "entityculling-forge-1.9.5-mc1.20.1.jar",
+                      "path":  "mods/entityculling-forge-1.9.5-mc1.20.1.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/entityculling-forge-1.9.5-mc1.20.1.jar",
+                      "size":  1569588,
+                      "sha1":  "524be2ed63e9f131a17393ead67cd3fddc97ca2b"
+                  },
+                  {
+                      "name":  "explosiveenhancement-1.1.0-1.20.1-client-and-server.jar",
+                      "path":  "mods/explosiveenhancement-1.1.0-1.20.1-client-and-server.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/explosiveenhancement-1.1.0-1.20.1-client-and-server.jar",
+                      "size":  83842,
+                      "sha1":  "cd88ace6193c3704d46a5ee8fc7d0063d2e687f6"
+                  },
+                  {
+                      "name":  "fancymenu_forge_3.9.3_MC_1.20.1.jar",
+                      "path":  "mods/fancymenu_forge_3.9.3_MC_1.20.1.jar",
+                      "url":  "https://github.com/Hazextx/pedsafio-launcher/releases/download/mods-offline-v1/fancymenu_forge_3.9.3_MC_1.20.1.jar",
+                      "size":  25625609,
+                      "sha1":  "22b779ac73923b39a02625adb108e7ee17a5502b"
+                  },
+                  {
+                      "name":  "fantasyfurniture-1.20.1-9.0.0.jar",
+                      "path":  "mods/fantasyfurniture-1.20.1-9.0.0.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/fantasyfurniture-1.20.1-9.0.0.jar",
+                      "size":  3202951,
+                      "sha1":  "85b51d883025413c89ce52ae5e9a7071bc4e53a3"
+                  },
+                  {
+                      "name":  "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+                      "path":  "mods/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+                      "size":  66989,
+                      "sha1":  "27d58f123951e0404c94caf16ff9b96b442f371c"
+                  },
+                  {
+                      "name":  "FastSuite-1.20.1-5.1.2.jar",
+                      "path":  "mods/FastSuite-1.20.1-5.1.2.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/FastSuite-1.20.1-5.1.2.jar",
+                      "size":  26600,
+                      "sha1":  "32ea4495b0e646f8f060e4e97d17044dd9fdefbd"
+                  },
+                  {
+                      "name":  "ferritecore-6.0.1-forge.jar",
+                      "path":  "mods/ferritecore-6.0.1-forge.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/ferritecore-6.0.1-forge.jar",
+                      "size":  123034,
+                      "sha1":  "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+                  },
+                  {
+                      "name":  "framework-forge-1.20.1-0.8.0.jar",
+                      "path":  "mods/framework-forge-1.20.1-0.8.0.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/framework-forge-1.20.1-0.8.0.jar",
+                      "size":  383868,
+                      "sha1":  "27347879f8760a7bc0b4bd71977abc50e498811c"
+                  },
+                  {
+                      "name":  "ftb-library-forge-2001.2.12.jar",
+                      "path":  "mods/ftb-library-forge-2001.2.12.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/ftb-library-forge-2001.2.12.jar",
+                      "size":  780523,
+                      "sha1":  "7f36ec4af42ad1d69872c58022e93a9d1b9c82b7"
+                  },
+                  {
+                      "name":  "ftb-quests-forge-2001.4.22.jar",
+                      "path":  "mods/ftb-quests-forge-2001.4.22.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/ftb-quests-forge-2001.4.22.jar",
+                      "size":  1255469,
+                      "sha1":  "70f3bd771ab3b5921ce1ff5f14166fab694ca1aa"
+                  },
+                  {
+                      "name":  "ftb-teams-forge-2001.3.2.jar",
+                      "path":  "mods/ftb-teams-forge-2001.3.2.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/ftb-teams-forge-2001.3.2.jar",
+                      "size":  252579,
+                      "sha1":  "c49023f5d471aa1ba7fc624d2565fe9e82b7117e"
+                  },
+                  {
+                      "name":  "geckolib-forge-1.20.1-4.8.3.jar",
+                      "path":  "mods/geckolib-forge-1.20.1-4.8.3.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/geckolib-forge-1.20.1-4.8.3.jar",
+                      "size":  1039046,
+                      "sha1":  "5428765c6c2e2135da6ee01f2f0478fa0db6aee7"
+                  },
+                  {
+                      "name":  "Iceberg-1.20.1-forge-1.1.25.jar",
+                      "path":  "mods/Iceberg-1.20.1-forge-1.1.25.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/Iceberg-1.20.1-forge-1.1.25.jar",
+                      "size":  134551,
+                      "sha1":  "d551ff55814cfb01403b812459ee5a02b020d87b"
+                  },
+                  {
+                      "name":  "ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
+                      "path":  "mods/ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/ImmediatelyFast-Forge-1.5.4%2B1.20.4.jar",
+                      "size":  538992,
+                      "sha1":  "e2e60485a0c3efa72f1948c952b095150e3ba4fc"
+                  },
+                  {
+                      "name":  "immersive_paintings-0.6.11+1.20.1-forge.jar",
+                      "path":  "mods/immersive_paintings-0.6.11+1.20.1-forge.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/immersive_paintings-0.6.11%2B1.20.1-forge.jar",
+                      "size":  4855090,
+                      "sha1":  "99ffd1b03beb8a0ef362baf89cc25cc5c24afe14"
+                  },
+                  {
+                      "name":  "ItemBorders-1.20.1-forge-1.2.2.jar",
+                      "path":  "mods/ItemBorders-1.20.1-forge-1.2.2.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/ItemBorders-1.20.1-forge-1.2.2.jar",
+                      "size":  20832,
+                      "sha1":  "cf42466689489348e1e3a5df00d2ce6c65dd978a"
+                  },
+                  {
+                      "name":  "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+                      "path":  "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+                      "size":  625185,
+                      "sha1":  "2019d821bed9071daabed43979433a5473ceee49"
+                  },
+                  {
+                      "name":  "lootbeams-1.20.1-1.2.6.jar",
+                      "path":  "mods/lootbeams-1.20.1-1.2.6.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/lootbeams-1.20.1-1.2.6.jar",
+                      "size":  163914,
+                      "sha1":  "6b36aa6fb6adf19ce5c6c045e5cf0c292d28d505"
+                  },
+                  {
+                      "name":  "mdm-26.5.0-forge-1.20.1.jar",
+                      "path":  "mods/mdm-26.5.0-forge-1.20.1.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/mdm-26.5.0-forge-1.20.1.jar",
+                      "size":  2681762,
+                      "sha1":  "63533ad0b74941c273b9419d7847f7b83a43c2dc"
+                  },
+                  {
+                      "name":  "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+                      "path":  "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+                      "size":  37178,
+                      "sha1":  "e0942d396a70c09038e6c2e5e1da6505178249b8"
+                  },
+                  {
+                      "name":  "memoryleakfix-forge-1.17+-1.1.5.jar",
+                      "path":  "mods/memoryleakfix-forge-1.17+-1.1.5.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/memoryleakfix-forge-1.17%2B-1.1.5.jar",
+                      "size":  227925,
+                      "sha1":  "9f60142dd94631800386a16a4ad70ad9e84cd78a"
+                  },
+                  {
+                      "name":  "modernfix-forge-5.27.25+mc1.20.1.jar",
+                      "path":  "mods/modernfix-forge-5.27.25+mc1.20.1.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/modernfix-forge-5.27.25%2Bmc1.20.1.jar",
+                      "size":  951054,
+                      "sha1":  "09c1a0e87501d46b0b999eb2527fd3406625553a"
+                  },
+                  {
+                      "name":  "modminds-1.0.6-forge-1.20.1.jar",
+                      "path":  "mods/modminds-1.0.6-forge-1.20.1.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/modminds-1.0.6-forge-1.20.1.jar",
+                      "size":  5360526,
+                      "sha1":  "54846e26029f6bddaecd26a224d9f7f2ec43a124"
+                  },
+                  {
+                      "name":  "Owleaf Tikis Forge 1.20.1.jar",
+                      "path":  "mods/Owleaf Tikis Forge 1.20.1.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/Owleaf%20Tikis%20Forge%201.20.1.jar",
+                      "size":  651266,
+                      "sha1":  "92c54c424fcc5f93eff48b48de5e7f59ef7c211d"
+                  },
+                  {
+                      "name":  "Pehkui-3.8.2+1.20.1-forge.jar",
+                      "path":  "mods/Pehkui-3.8.2+1.20.1-forge.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/Pehkui-3.8.2%2B1.20.1-forge.jar",
+                      "size":  671605,
+                      "sha1":  "4bc816efdd8e5e2a97423313674401351710e403"
+                  },
+                  {
+                      "name":  "Placebo-1.20.1-8.6.3.jar",
+                      "path":  "mods/Placebo-1.20.1-8.6.3.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/Placebo-1.20.1-8.6.3.jar",
+                      "size":  282474,
+                      "sha1":  "e85f53de2e582a79ce25ff1df1e7b5b5fc08440f"
+                  },
+                  {
+                      "name":  "Prism-1.20.1-forge-1.0.5.jar",
+                      "path":  "mods/Prism-1.20.1-forge-1.0.5.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/Prism-1.20.1-forge-1.0.5.jar",
+                      "size":  52205,
+                      "sha1":  "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3"
+                  },
+                  {
+                      "name":  "protectedarea-1.0.7-forge-1.20.1.jar",
+                      "path":  "mods/protectedarea-1.0.7-forge-1.20.1.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/protectedarea-1.0.7-forge-1.20.1.jar",
+                      "size":  1766464,
+                      "sha1":  "55e39072e2ece42c5c620a16b088553b11e06f54"
+                  },
+                  {
+                      "name":  "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+                      "path":  "mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+                      "size":  136923,
+                      "sha1":  "597d40920dcc935f963842c817dcc4901862ab14"
+                  },
+                  {
+                      "name":  "resourcefullib-forge-1.20.1-2.1.29.jar",
+                      "path":  "mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/resourcefullib-forge-1.20.1-2.1.29.jar",
+                      "size":  432753,
+                      "sha1":  "6fc590a7c56a720fec57e290cbb0a106efbb3ffa"
+                  },
+                  {
+                      "name":  "scuba_gear-1.20.1-1.0.6.jar",
+                      "path":  "mods/scuba_gear-1.20.1-1.0.6.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/scuba_gear-1.20.1-1.0.6.jar",
+                      "size":  58104,
+                      "sha1":  "1318adb45b0ac3599f460d7fa24c09d2358d3133"
+                  },
+                  {
+                      "name":  "servercore-forge-1.5.2+1.20.1.jar",
+                      "path":  "mods/servercore-forge-1.5.2+1.20.1.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/servercore-forge-1.5.2%2B1.20.1.jar",
+                      "size":  1508496,
+                      "sha1":  "75c6418edc76da55ec89f417e8c43c9d1873fceb"
+                  },
+                  {
+                      "name":  "Signal-Flares-Mod-Forge-1.20.1.jar",
+                      "path":  "mods/Signal-Flares-Mod-Forge-1.20.1.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/Signal-Flares-Mod-Forge-1.20.1.jar",
+                      "size":  479671,
+                      "sha1":  "dfb9789eb8c42903885a8d6b209dbcf0f89d8299"
+                  },
+                  {
+                      "name":  "smoothchunk-1.20.1-4.1.jar",
+                      "path":  "mods/smoothchunk-1.20.1-4.1.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/smoothchunk-1.20.1-4.1.jar",
+                      "size":  14249,
+                      "sha1":  "3e142e4a2e12db1c9a3777879cc021aff49da088"
+                  },
+                  {
+                      "name":  "thesubmarinemod-1.0.0-forge-1.20.1.jar",
+                      "path":  "mods/thesubmarinemod-1.0.0-forge-1.20.1.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/thesubmarinemod-1.0.0-forge-1.20.1.jar",
+                      "size":  152391,
+                      "sha1":  "d076c4618a3482783697d890f6f7c6f9a2795e3f"
+                  },
+                  {
+                      "name":  "voicechat-forge-1.20.1-2.6.17.jar",
+                      "path":  "mods/voicechat-forge-1.20.1-2.6.17.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/voicechat-forge-1.20.1-2.6.17.jar",
+                      "size":  4903246,
+                      "sha1":  "994e4048b2309f05f3a5e67f6e933b14b86b1a22"
+                  },
+                  {
+                      "name":  "worldedit-mod-7.2.15.jar",
+                      "path":  "mods/worldedit-mod-7.2.15.jar",
+                      "url":  "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/worldedit-mod-7.2.15.jar",
+                      "size":  5825402,
+                      "sha1":  "9c52765ca56f917ef8cbafc20e9a4f45c346508f"
+                  },
+                  {
+                      "name":  "yuushya-1.20.1-forge-2.3.0.jar",
+                      "path":  "mods/yuushya-1.20.1-forge-2.3.0.jar",
+                      "url":  "https://github.com/Hazextx/pedsafio-launcher/releases/download/mods-v1/yuushya-1.20.1-forge-2.3.0.jar",
+                      "size":  28166084,
+                      "sha1":  "4ac64e0368ea02a2271326bc41f421a31e6604a3"
+                  },
+                  {
+                      "name": "Luckys-Smarter-Mobs-Mod-Forge-1.20.1.jar",
+                      "path": "mods/Luckys-Smarter-Mobs-Mod-Forge-1.20.1.jar",
+                      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/Luckys-Smarter-Mobs-Mod-Forge-1.20.1.jar",
+                      "size": 170542,
+                      "sha1": "455c8988e5ddb95461b92365c8abd3ef5d57d058"
+                  },
+                  {
+                      "name": "illager_additions-1.20.1-0.1.0-beta.jar",
+                      "path": "mods/illager_additions-1.20.1-0.1.0-beta.jar",
+                      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/illager_additions-1.20.1-0.1.0-beta.jar",
+                      "size": 1056265,
+                      "sha1": "ec661245c02b131aec3c3e011bcf4c1fd83605fc"
+                  },
+                  {
+                      "name": "simplevoicechat_broadcast-mc1.20.1-1.0.1.jar",
+                      "path": "mods/simplevoicechat_broadcast-mc1.20.1-1.0.1.jar",
+                      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/simplevoicechat_broadcast-mc1.20.1-1.0.1.jar",
+                      "size": 7302,
+                      "sha1": "0e5a9ccb497c0251ba0fce10e265989fb13a8a80"
+                  },
+                  {
+                      "name": "elementalcreepers-4.1.1-1.20.1.jar",
+                      "path": "mods/elementalcreepers-4.1.1-1.20.1.jar",
+                      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/elementalcreepers-4.1.1-1.20.1.jar",
+                      "size": 194936,
+                      "sha1": "d6be60e35c7a68bddbe88a47db8f2edc150c7da4"
+                  }
+              ]
+}
