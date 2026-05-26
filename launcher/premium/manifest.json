@@ -717,13 +717,3 @@
                       "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/simplevoicechat_broadcast-mc1.20.1-1.0.1.jar",
                       "size": 7302,
                       "sha1": "0e5a9ccb497c0251ba0fce10e265989fb13a8a80"
-                  },
-                  {
-                      "name": "elementalcreepers-4.1.1-1.20.1.jar",
-                      "path": "mods/elementalcreepers-4.1.1-1.20.1.jar",
-                      "url": "https://hazextx.github.io/pedsafio-launcher/launcher/premium/files/elementalcreepers-4.1.1-1.20.1.jar",
-                      "size": 194936,
-                      "sha1": "d6be60e35c7a68bddbe88a47db8f2edc150c7da4"
-                  }
-              ]
-}
